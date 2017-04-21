@@ -1,4 +1,4 @@
-# quoraquestionpairs
+# QuoraQuestionPairs
 Quora Question Pairs
 Objective:
 
